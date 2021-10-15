@@ -30,10 +30,10 @@ Of the 2,344,224 total bike rides, 443,865 (18.9%) were carried out by short-ter
 
 #### Visualizaton 4
 This pie chart shows the gender breakdown of Citi Bike riders. 
-1,530,272 or 65.3% of users are male
-588,431 or 25.1% of users are female
-225,521 or 9.6% of users are of unknown gender
-The legend for th visualization is labeled "Gender Converted" because the datatype in the "gender" column of the imported CSV file was converted from number values to string values. 
+1,530,272 or 65.3% of users are male.
+588,431 or 25.1% of users are female.
+225,521 or 9.6% of users are of unknown gender.
+The legend for this visualization is labeled "Gender Converted" because the datatype in the "gender" column of the imported CSV file was converted from number values to string values. 
 
 ![image](https://user-images.githubusercontent.com/84869167/137417209-ff87088c-d0ae-4bab-8abe-2d97e09392d2.png)
 
