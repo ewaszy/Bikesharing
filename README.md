@@ -32,6 +32,7 @@ This pie chart shows the gender breakdown of Citi Bike riders.
 588,431 or 25.1% of users are female
 225,521 or 9.6% of users are of unknown gender
 The legend for th visualization is labeled "Gender Converted" because the datatype in the "gender" column of the imported CSV file was converted from number values to string values. 
+
 ![image](https://user-images.githubusercontent.com/84869167/137417209-ff87088c-d0ae-4bab-8abe-2d97e09392d2.png)
 
 #### Visualizaton 5
