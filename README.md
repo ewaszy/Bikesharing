@@ -7,7 +7,7 @@ The purpose of this analysis is to present a business proposal for a bike sharin
 
 The analysis consisted of three parts:
 1. Downloading a dataset from the Citi Bike System Data page from August 2019 (201908-citibike-tripdata.csv.zip). A dataframe was created and the "tripduration" column was converted from an integer to a datetime datatype. Afterwards, the updated dataframe was exported to a CSV file.
-2. The updated CSV file was imported to Tableau and five visualizations were created that show how long bikes are checked out for all riders and genders, how many trips are taken by the hour for each day of the week for all riders and genders, and a breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender. Several other visualizations were created earlier in the module, and three were chosen to be included in the results to provide better insight.
+2. The updated CSV file was imported to Tableau and five visualizations were created that show how long bikes are checked out for all riders and genders, how many trips are taken by the hour for each day of the week for all riders and genders, and a breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender. Several other visualizations were created earlier in the module, and four were chosen to be included in the results to provide better insight.
 3. A story was created using Tableau to illustrate key outcomes of the NYC Citibike data. 
 
 Link to the story on Tableau can be found here: https://public.tableau.com/app/profile/ewa.a.szyszkowska/viz/Bikesharingstory/BikeSharing
